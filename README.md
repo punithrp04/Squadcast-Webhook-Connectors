@@ -1,3 +1,3 @@
 # Squadcast-Webhook-Connectors
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/punit-squadcast/Squadcast-Webhook-Connectors)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SquadcastHub/Squadcast-Webhook-Connectors)
