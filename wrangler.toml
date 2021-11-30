@@ -1,4 +1,4 @@
-name = "projectname"
+name = "squadcast-webhook-connectors"
 type = "webpack"
 account_id = "dbc6155610c573b780f80adb3541d810" # put your account_id here
 workers_dev = true
