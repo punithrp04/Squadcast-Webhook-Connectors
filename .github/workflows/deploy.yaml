@@ -1,16 +1,14 @@
 name: Build
-on:
-  push:
+on: [push]
 jobs:
     deploy:
       runs-on: ubuntu-latest
       timeout-minutes: 60
-      needs: test
       steps:
         - uses: actions/checkout@v2
         - name: Publish
           uses: cloudflare/wrangler-action@1.3.0
           with:
-            apiToken: ${{ secrets.CF_API_TOKEN }}
+            apiToken: 4f14ffd5061526f3acb3f5f2bbe8bd9d
           env:
-            CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+            CF_ACCOUNT_ID: RUj38ZHlZBpmaG7oY6Bjy3lcijGuwDUUc8hvvpYl
