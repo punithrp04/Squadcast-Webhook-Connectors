@@ -1,0 +1,8 @@
+name = "projectname"
+type = "webpack"
+account_id = "dbc6155610c573b780f80adb3541d810" # put your account_id here
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+compatibility_date = "2021-11-29"
